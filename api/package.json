@@ -1,0 +1,23 @@
+{
+  "name": "enigmamanagement",
+  "version": "1.0.0",
+  "description": "This is a testing, simple and functional (maybe beautiful) project enigma CRUD in NodeJS with firebase (and others shits)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vansderlei/enigmaManagement.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vansderlei/enigmaManagement/issues"
+  },
+    "dependencies": {
+      "express": "4.16.3"
+    },
+  "homepage": "https://github.com/vansderlei/enigmaManagement#readme"
+}
